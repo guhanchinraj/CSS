@@ -1,0 +1,194 @@
+.header{
+    position: relative;
+    width: 300px;
+    height: auto;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    margin: 30px auto;
+    padding: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.img{
+    width: 100%;
+    border-radius: 20px;
+}
+.center{
+    font-weight: bold;
+}
+.tab{
+    border: 1px solid lightgrey;
+}
+.img1{
+    width: 50px;
+    padding: 5px;
+    position: absolute;
+    bottom: 4%;
+}
+.safety{
+    color: grey;
+    font-size: x-small;
+    padding-left: 60px;  
+}
+.time{
+    background-color: white;
+    font-size: 9px;
+    font-weight: bold;
+    color: black;
+    padding: 5px 10px;
+    position: absolute;
+    bottom: 35%;
+    right: 1%;
+    margin: 18px;
+    border-radius: 15px;
+}
+.offer{
+    background-color: rgb(83, 83, 249);
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 3px 10px;
+    position: absolute;
+    bottom: 35%;
+    left: 1%;
+    margin: 17px;
+}
+
+.nature{
+    position: relative;
+    width: 870px;
+    height: auto;
+    border-radius: 20px;
+    margin: 30px auto;
+    padding: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.bali{
+    width: 100%;
+    border-radius: 15px;
+    height: auto;
+}
+.heading{
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    padding: 3px 10px;
+    position: absolute;
+    bottom: 50%;
+    left: 24%;
+    margin: 17px;
+}
+.heading-2{
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    padding: 3px 10px;
+    position: absolute;
+    bottom: 40%;
+    left: 8%;
+    margin: 17px;
+}
+.explore1{
+    background-color: white;
+    font-size: 13px;
+    font-weight: bold;
+    color: black;
+    padding: 20px 20px;
+    position: absolute;
+    bottom: 27%;
+    right: 42%;
+    margin: 18px;
+    border-radius: 18px;
+    border: none;
+}
+
+.search{
+    position: relative;
+    width: 800px;
+    height: auto;
+    border-radius: 20px;
+    margin: 30px auto;
+    padding: 10px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.food{
+    width: 100%;
+    border-radius: 5px;
+}
+.zomato{
+    color: rgb(255, 255, 255);
+    font-size: 45;
+    font-weight: bolder;
+    padding: 3px 10px;
+    position: absolute;
+    top: 14%;
+    left: 38%;
+    margin: 17px;
+}
+.discover{
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    padding: 10px 10px;
+    position: absolute;
+    top: 28%;
+    left: 30%;
+    margin: 17px;
+}
+.location{
+    background-color: white;
+    font-size: 13px;
+    font-weight: bold;
+    color: black;
+    padding: 10px 10px;
+    position: absolute;
+    top: 42%;
+    right: 45%;
+    margin: 18px;
+    border-radius: 18px;
+    border: none;
+}
+.search1{
+    background-color: white;
+    font-size: 13px;
+    font-weight: bold;
+    color: black;
+    padding: 10px 10px;
+    position: absolute;
+    top: 42%;
+    right: 21%;
+    margin: 18px;
+    border-radius: 18px;
+    border: none;
+    display: flex;
+}
+
+.profile{
+    position: relative;
+    width: 300px;
+    background-color: rgb(219, 219, 219);
+    border: 1px solid lightgray;
+    height: auto;
+    border-radius: 20px;
+    margin: 20px auto;
+    padding: 10px;
+}
+.cover{
+    position: relative;
+    width: 100%;
+    border-radius: 14px;
+    padding-bottom: 30px;
+}
+.dp{
+    width: 35%;
+    position: absolute;
+    bottom: 22%;
+    right: 27%;
+    margin: 18px;
+    border-radius: 50px;
+    border: none;
+    display: flex;
+}
+.name{
+    text-align: center;
+}
+.intro{
+    text-align: center;
+}
